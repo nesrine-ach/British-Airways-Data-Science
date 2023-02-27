@@ -1,4 +1,4 @@
-# British-Airways-Data-Science
+# Data Science Virtual Experience Program with British Airways and theforage
 This repository contains my own attempt for the Data Science Virtual Experience Program with British Airways and theforage. The program consisted of two tasks that focused on using data science and machine learning techniques to analyze customer feedback data and predict customer behavior.
 
 ## Task 1: Customer Feedback Analysis
